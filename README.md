@@ -27,7 +27,7 @@ En general, me considero un desarrollador de software altamente capacitado y mot
 
 <div align="center">
   <a href="https://github.com/cristiiangb" onmouseover="this.style.textDecoration='none'">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cristiiangb&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cristiiangb&layout=compact&langs_count=4&theme=omni" />
+    <img height="180em" width="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cristiiangb&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
+    <img height="180em" width="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cristiiangb&layout=compact&langs_count=4&theme=omni" />
   </a>  
 </div> 
